@@ -2,5 +2,6 @@
   "api": "1.0.0",
   "name": "Export .zip",
   "main": "src/plugin.ts",
-  "ui": "src/ui.ts"
+  "ui": "src/ui.ts",
+  "id": "747228167548695118"
 }
