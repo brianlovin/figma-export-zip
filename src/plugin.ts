@@ -15,7 +15,7 @@ async function main(nodes): Promise<string> {
 
   let exportableBytes: ExportableBytes[] = []
   for (let node of nodes) {
-    let exportSettings = node.exportSettings
+    let { name, exportSettings } = node
     if (exportSettings.length === 0) {
       exportSettings = [{ format: "PNG", suffix: '', constraint: { type: "SCALE", value: 1 }, contentsOnly: true }]
     }
