@@ -4,7 +4,7 @@
 
 Easily export assets from Figma directly into a .zip file.
 
-[Install on Figma]()
+[Install on Figma](https://www.figma.com/c/plugin/747228167548695118/Export-.zip)
 
 ## Usage
 
