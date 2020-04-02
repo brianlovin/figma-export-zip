@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Easily export assets from Figma directly into a .zip file.",
   "dependencies": {
-    "jszip": "^3.2.2"
+    "jszip": "^3.3.0"
   }
 }
